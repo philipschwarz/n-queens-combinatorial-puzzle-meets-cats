@@ -1,4 +1,4 @@
-Scala code for N-Queens Combinatorial Puzzle meets Cats
+Scala code for [N-Queens Combinatorial Puzzle meets Cats](http://fpilluminated.com/assets/n-queens-combinatorial-puzzle-meets-cats.html)
 
 ![alt text](front-slide.png "N-Queens Combinatorial Puzzle meets Cats")
 
